@@ -1,7 +1,7 @@
 # CODSOFT
 This repository for Codsoft internship project.In which project is based on c++ programming are :
 # Number Guessing Game:
-   ~ In These Game User Have to Guess the Number Which is randomly generate by Computer In Between 1~100 Number.
+   ~ In These Game User Have to Guess the Number Which is randomly generate by Computer In Between 1-100 Number.
    ~ User Have Different Levels but User Can Choose Any One Of Them.
    ~ In this Game  firstly User choose the level beacause on the basis of level user to get the attempts to play the game.
      * Easy level - By click on 1 user choose this level and User get 10 Attempts to Play Game .
